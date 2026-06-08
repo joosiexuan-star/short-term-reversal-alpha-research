@@ -1,0 +1,10 @@
+strategy,period,start_date,end_date,final_cumulative_return,total_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,average_turnover,total_turnover,total_transaction_cost
+Reversal-only Buffer 60%,In-sample 2015-2019,2015-01-01,2019-12-31,1.253,25.301,4.622,10.895,0.424,-24.154,1.819,456.675,45.668
+Reversal-only Buffer 60%,Validation 2020-2022,2020-01-01,2022-12-31,1.052,5.239,1.717,19.827,0.087,-31.924,1.789,270.173,27.017
+Reversal-only Buffer 60%,Out-of-sample 2023-2025,2023-01-01,2025-12-31,0.835,-16.535,-5.885,16.819,-0.35,-24.648,1.794,267.288,26.729
+Sector-neutral Reversal Buffer 60%,In-sample 2015-2019,2015-01-01,2019-12-31,0.95,-4.957,-1.013,9.429,-0.107,-16.597,1.93,484.459,48.446
+Sector-neutral Reversal Buffer 60%,Validation 2020-2022,2020-01-01,2022-12-31,1.076,7.615,2.477,15.827,0.156,-32.804,1.912,288.717,28.872
+Sector-neutral Reversal Buffer 60%,Out-of-sample 2023-2025,2023-01-01,2025-12-31,0.712,-28.775,-10.762,11.851,-0.908,-29.738,1.871,278.835,27.884
+Beta-neutral Reversal Buffer 60%,In-sample 2015-2019,2015-01-01,2019-12-31,1.101,10.074,1.941,9.863,0.197,-21.994,1.886,473.357,47.336
+Beta-neutral Reversal Buffer 60%,Validation 2020-2022,2020-01-01,2022-12-31,0.897,-10.304,-3.56,17.75,-0.201,-36.888,1.9,286.887,28.689
+Beta-neutral Reversal Buffer 60%,Out-of-sample 2023-2025,2023-01-01,2025-12-31,0.865,-13.456,-4.734,13.922,-0.34,-20.639,1.947,290.067,29.007

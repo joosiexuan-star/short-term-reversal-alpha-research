@@ -1,0 +1,11 @@
+diagnostic,value
+Original portfolio beta mean,-0.026877634618530263
+Original portfolio beta std,0.323899116366387
+Original portfolio beta min,-1.0506284008322888
+Original portfolio beta max,1.0071918199823768
+Beta-neutral portfolio beta mean,0.0006885887284452528
+Beta-neutral portfolio beta std,0.014294849355667728
+Beta-neutral portfolio beta min,-0.1047947876356913
+Beta-neutral portfolio beta max,0.22427450476827238
+Original average absolute net sector exposure,0.08580515487404877
+Sector-neutral average absolute net sector exposure,1.1412159142140369e-18

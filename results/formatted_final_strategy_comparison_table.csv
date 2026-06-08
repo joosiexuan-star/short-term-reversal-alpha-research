@@ -1,0 +1,7 @@
+strategy,final_cumulative_return,total_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,average_turnover,total_turnover,total_transaction_cost
+Reversal-only Buffer 60%,1.101,10.062,0.878,15.433,0.057,-35.156,1.804,994.136,99.414
+Strict Regime-aware Buffer 60%,1.073,7.347,0.648,13.98,0.046,-26.504,1.903,753.646,75.365
+Combined Reversal + Trend Buffer 60%,0.693,-30.747,-3.293,13.454,-0.245,-50.73,0.974,526.159,52.616
+Trend-filtered Reversal Buffer 60%,0.434,-56.626,-7.33,17.752,-0.413,-65.027,2.337,1262.046,126.205
+Sector-neutral Reversal Buffer 60%,0.728,-27.151,-2.846,12.128,-0.235,-41.064,1.909,1052.012,105.201
+Beta-neutral Reversal Buffer 60%,0.854,-14.554,-1.423,13.525,-0.105,-42.613,1.906,1050.31,105.031

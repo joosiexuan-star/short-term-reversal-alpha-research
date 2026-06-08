@@ -2,6 +2,10 @@
 
 ## 1. Project Overview
 
+The full research notebook is available here:
+
+[View the full notebook](short_term_reversal_alpha_research.ipynb)
+
 This project evaluates whether a 5-day short-term reversal signal can generate robust and tradable alpha on Nasdaq 100 constituents.
 
 The project is designed as an end-to-end equity statistical arbitrage research pipeline. It starts from a simple factor hypothesis, evaluates its predictive power, builds long-short backtests, incorporates transaction costs and turnover control, and then performs out-of-sample validation, regime analysis, sector exposure diagnostics, and beta-neutral robustness tests.
@@ -127,6 +131,33 @@ The main strategy comparison is shown below.
 The original Reversal-only Buffer 60% strategy produces weak positive full-sample performance. However, all stricter extensions and risk-neutral versions fail to produce robust improvements.
 
 ---
+
+---
+
+## Key Figures
+
+### Final Cumulative Return Comparison
+
+![Final Cumulative Return Comparison](figures/final_cumulative_return_comparison.png)
+
+### Final Drawdown Comparison
+
+![Final Drawdown Comparison](figures/final_drawdown_comparison.png)
+
+### Transaction Cost Sensitivity
+
+![Transaction Cost Sensitivity Sharpe](figures/transaction_cost_sensitivity_sharpe.png)
+
+![Transaction Cost Sensitivity Cumulative Return](figures/transaction_cost_sensitivity_cumret.png)
+
+### Sector Exposure Before and After Neutralization
+
+![Sector Exposure Before After](figures/sector_exposure_before_after.png)
+
+### Portfolio Beta Before and After Beta-neutralization
+
+![Portfolio Beta Before After](figures/portfolio_beta_before_after.png)
+
 
 ## 9. Out-of-Sample Validation
 
